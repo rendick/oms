@@ -1,0 +1,39 @@
+{
+  "Rattenfanger": {
+    "Epistolae Obscurorum Virorum": {
+      "cover_img": "./Rattenfänger/Epistolae-Obscurorum-Virorum/cover.jpg",
+      "songs": {
+        "Coelo Affixus Sed Terris Omnibus Sparsus": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/01. Coelo Affixus Sed Terris Omnibus Sparsus - Intro.mp3"
+        },
+        "Grimorium Verum": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/02. Grimorium Verum.mp3"
+        },
+        "Victa Lacet Virtus": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/03. Victa Lacet Virtus.mp3"
+        },
+        "Nunc Scio Tenebris Lux": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/04. Nunc Scio Tenebris Lux.mp3"
+        },
+        "Allegoria De Gula Et Luxuria": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/05. Allegoria De Gula Et Luxuria.mp3"
+        },
+        "Clausae Patent": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/06. Clausae Patent.mp3"
+        },
+        "Deest Remedii Locus, Ubi, Quae Vitia Fuerunt, Mores Fiunt": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/07_Deest_Remedii_Locus,_Ubi,_Quae_Vitia_Fuerunt,_Mores_Fiunt.mp3"
+        },
+        "Regno, Regnavi, Regnabo": {
+          "path": "./Rattenfänger/Epistolae-Obscurorum-Virorum/08. Regno, Regnavi, Regnabo.mp3"
+        }
+      }
+    }
+  },
+  "Drudkh": {
+    "First album": {
+      "cover_img": "path",
+      "songs": {}
+    }
+  }
+}
